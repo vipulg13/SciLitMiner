@@ -1,2 +1,2 @@
 # LitMiner
-A literature mining tool
+A Novel Literature Mining Tool for Materials Science and Beyond
