@@ -70,10 +70,9 @@ SciLitMiner is composed of modular, containerized components supporting **scalab
 
 ## 🧱 Planned Features
 
-- 🔍 Advanced visual dataset parsing (e.g., scientific plots, graphs, micrographs)  
-- 🧩 Domain-agnostic schema for extending to other scientific disciplines  
-- 🧠 Integration with open-source and commercial LLMs for customizable reasoning workflows  
-- ☁️ Cloud-native deployment templates and monitoring  
+- 🔍 Advanced visual dataset parsing and reasoning (e.g., scientific plots, graphs, micrographs)  
+- 🧩 Domain-agnostic ontology and schema support for extracting structured datasets from scientific disciplines  
+- ☁️ Cloud-native deployment templates and monitoring (e.g., a single dockerfile, HELM charts)   
 
 ---
 
