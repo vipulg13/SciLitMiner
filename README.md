@@ -52,8 +52,8 @@ SciLitMiner is composed of modular, containerized components supporting **scalab
 
 - **Frontend:** [scilitminer-frontend](https://github.com/vipulg13/scilitminer-frontend.git)  
 - **Backend (Synchronous API):** [scilitminer-backend-sync](https://github.com/vipulg13/scilitminer-backend-sync.git)  
-- **Backend (Asynchronous Processing Engine):** [scilitminer-backend-async](https://github.com/vipulg13/scilitminer-backend-async.git)
-- **Backend (LLM Service Engine):** [scilitminer-backend-async](https://github.com/vipulg13/scilitminer-llmservice.git)
+- **Backend (Asynchronous Processing):** [scilitminer-backend-async](https://github.com/vipulg13/scilitminer-backend-async.git)
+- **Backend (LLM Service):** [scilitminer-llmservice](https://github.com/vipulg13/scilitminer-llmservice.git)
 
 ### Core Dependencies
 - [MongoDB](https://www.mongodb.com/) – NoSQL for Metadata & content storage  
