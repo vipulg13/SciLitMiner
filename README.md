@@ -53,6 +53,7 @@ SciLitMiner is composed of modular, containerized components supporting **scalab
 - **Frontend:** [scilitminer-frontend](https://github.com/vipulg13/scilitminer-frontend.git)  
 - **Backend (Synchronous API):** [scilitminer-backend-sync](https://github.com/vipulg13/scilitminer-backend-sync.git)  
 - **Backend (Asynchronous Processing Engine):** [scilitminer-backend-async](https://github.com/vipulg13/scilitminer-backend-async.git)
+- **Backend (LLM Service Engine):** [scilitminer-backend-async](https://github.com/vipulg13/scilitminer-llmservice.git)
 
 ### Core Dependencies
 - [MongoDB](https://www.mongodb.com/) – NoSQL for Metadata & content storage  
@@ -61,6 +62,7 @@ SciLitMiner is composed of modular, containerized components supporting **scalab
 - [Grobid](https://github.com/kermitt2/grobid) – A machine learning software for extracting information from scholarly documents
 - [pdfigures2](https://github.com/allenai/pdffigures2) - Given a scholarly PDF, extract figures, tables, captions, and section titles
 - [PDFigCapX](https://github.com/pengyuanli/PDFigCapX) - Given a scholarly PDF, extract figures, tables, captions, and section titles
+- [PUB2TEI](https://github.com/kermitt2/Pub2TEI) - Service for converting and enhancing heterogeneous publisher XML formats into TEI
 
 > **Note:** Instructions for setting up a **sandbox environment** using **Docker** and **Kubernetes** will be added soon.
 
