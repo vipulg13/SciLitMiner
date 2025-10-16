@@ -41,7 +41,7 @@ SciLitMiner analyzed hundreds of publications to map the interplay between mater
 The knowledge reasoning workflow, powered by OpenAI LLMs, achieved **>90% “good” (>3/5)** ratings by domain experts across qualitative evaluation metrics.
 
 ### 2. Model Comparison and Benchmarking
-A comparative study demonstrated that SciLitMiner’s RAG-based workflow **outperformed GPT-4.5-turbo with web search** and other leading tools in reliability.  
+A comparative study demonstrated that SciLitMiner’s RAG-based workflow **outperformed GPT-4.5-turbo with web search**, **Perplexity**, and **Elicit** in reliability.  
 Open-source LLMs were also benchmarked as **drop-in replacements** for proprietary models, showing **comparable or superior performance**.
 
 ---
